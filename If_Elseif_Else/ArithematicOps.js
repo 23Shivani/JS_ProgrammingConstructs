@@ -20,7 +20,7 @@ else if (result3 > result4)
 else
     max = result4;
 
-console.log("Maximum among all: " + max);
+console.log("Maximum among all : " + max);
 
 //To find the Minimum Value among all the result
 if ((result1 < result2) && (result1 < result3) && (result1 < result4))
@@ -32,4 +32,4 @@ else if (result3 < result4)
 else
     min = result4;
 
-console.log("Minimum among all: " + min);
+console.log("Minimum among all : " + min);
